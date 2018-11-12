@@ -1,4 +1,4 @@
-y:
+try:
 	import requests
 except:
 	pass
